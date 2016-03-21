@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[figchronicles]]></title>
         <description><![CDATA[figchronicles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/figchronicles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 05:18:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 05:24:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/figchronicles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a173ea9-b761-48a2-8d0f-2dea81c5fed6.jpg">]]></description>
-            <link>undefinedd04fe08b-8806-4e13-97d1-d447a5d77a5b/index.html</link>
+            <link>https://thegrid.ai/figchronicles/d04fe08b-8806-4e13-97d1-d447a5d77a5b/index.html</link>
             <guid isPermaLink="false">d04fe08b-8806-4e13-97d1-d447a5d77a5b</guid>
-            <pubDate>Mon, 21 Mar 2016 05:18:25 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 05:24:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
