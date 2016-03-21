@@ -1,7 +1,7 @@
 name: figchronicles
 favicon: null
-layout_spectrum: 0.75086
-typography_spectrum: 0.14897
+layout_spectrum: 1
+typography_spectrum: 0.34589
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f9fafc'
-    - '#e8c06b'
-    - '#21110e'
-    - '#70412d'
-    - '#d89242'
-  brandStrength: 0.6875
+    - '#000000'
+    - '#fdfdfd'
+    - '#993d0a'
+    - '#a7a189'
+    - '#677b08'
+  brandStrength: 0.3125
   lightness: 0.75
   saturation: 0.4375
   rhythmicContrast: 0.27902607060968876
